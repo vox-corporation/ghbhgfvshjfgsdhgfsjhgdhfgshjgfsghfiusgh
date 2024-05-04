@@ -1,4 +1,5 @@
-echo "Welcome to Pterodactyl Panel [VERSEVM EDITION]"
+echo "Welcome to Pterodactyl Panel [VOX EDITION]"
+echo "If you want to dont have a copyright in the footer of pterodactyl panel join into my discord server and gave access pterodactyl files :)"
 sleep 4
 echo "Lets upgrade the packages a little"
 sleep 4
